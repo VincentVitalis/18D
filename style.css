@@ -2,7 +2,7 @@ body{
     background-color: #161618;
 }
 h1{
-    color: #fff;
+    color: #f5eded;
 }
 .logo{
     position:relative;
@@ -12,7 +12,7 @@ h1{
 
 .container{
     height:760px;
-    background-color:#f5eded;
+    background-color:#d72323;
     background-size:cover;
 
 }
