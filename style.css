@@ -18,7 +18,7 @@ h1{
 }
 .container{
     height:760px;
-    background-image:linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url("./mockup-photos-5nUNdLueQio-unsplash.jpg");
+    background-image:linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url("mockup-photos-5nUNdLueQio-unsplash.jpg");
     background-size:cover;
     box-shadow:7px 10px 10px white;
 
