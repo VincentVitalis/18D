@@ -1,0 +1,28 @@
+body{
+    background-color: #161618;
+}
+h1{
+    color: #fff;
+}
+.logo{
+    position:relative;
+    width:124px;
+}
+
+.name{
+    position:absolute;
+    top:61px;
+    left:61px;
+    color:white;
+    font-size:32px;
+}
+.container{
+    height:760px;
+    background-image:linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.1)), url("./mockup-photos-5nUNdLueQio-unsplash.jpg");
+    background-size:cover;
+    box-shadow:7px 10px 10px white;
+
+}
+.container h1{
+    color:white;
+}
