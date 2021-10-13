@@ -5,7 +5,7 @@ h1{
     color: #f5eded;
 }
 .logo{
-    position:relative;
+    position:absolute;
     width:124px;
 }
 
