@@ -83,7 +83,7 @@ a{
 .main{
     margin:0;
     margin-top:90px;
-    background-image: url("ting-tian-_79ZJS8pV70-unsplash.jpg");
+    background-image: url("./ting-tian-_79ZJS8pV70-unsplash.jpg");
     background-size:cover;
     height:760px;
 }
@@ -103,7 +103,7 @@ a{
     font-weight: bold;
     color: azure;
     padding-top: 50px;
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'Dancing Script', cursive;
     font-size: 50px;
     text-align: center;
 }
@@ -200,8 +200,10 @@ a{
 /*footer*/
 footer{
     font-family:sans-serif;
+
 }
 footer .container{
+    padding :15px;
     margin:0 auto;
 }
 footer h4{
