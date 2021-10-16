@@ -29,6 +29,7 @@
         .logo-menu{
             display:inline;
             float:right;
+            cursor:pointer;
             line-height:90px;
             padding-right:20px;
         }
