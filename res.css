@@ -37,9 +37,6 @@
           width: 100%;
 
         }
-        .clear-foot{
-            padding-bottom:10px;
-        }
         .row{
             flex-direction: column;
         }
