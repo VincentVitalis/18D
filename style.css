@@ -29,6 +29,7 @@ a{
     top:0;
 }
 .header-logo{
+    padding-top:10px;
     padding-left:20px;
     float:left;
 }
@@ -51,7 +52,9 @@ a{
 .header-list li:hover{
     box-shadow: 0 -3px inset orange;
 }
-
+.active-now{
+    box-shadow: 0 -3px inset orange;
+}
 /*main*/
 .container{
     width:100%;
